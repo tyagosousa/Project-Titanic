@@ -1,8 +1,8 @@
 <h1>Projeto TITANIC  🚢</h1>
-Este projeto foi desenvolvido com o objetivo de aprimorar as habilidades em Ciência de Dados usando Pandas em Python 🐍
+Este projeto foi desenvolvido com o objetivo de aprimorar as habilidades em Ciência de Dados usando a biblioteca Pandas em Python 🐍
 <hr/>
 <h2>O que trata o banco de dados❓</h2>
-O TITANIC foi uma embarcação extremamente luxuosa e tecnológica para os padrões do início do século XX, mas que infelizmente naufragou ao colidir com um iceberg no Oceano Atlântico Norte próximo ao Canadá. Com isso, neste banco de dados é possível visualizar as estatísticas das vítimas, como sexo, idade, nome, modalidade no ticket entre outros. 
+O TITANIC foi uma embarcação extremamente luxuosa e tecnológica para os padrões do início do século XX, mas que infelizmente naufragou ao colidir com um iceberg no Oceano Atlântico Norte próximo ao Canadá. Com isso, neste banco de dados é possível visualizar as estatísticas das vítimas, como sexo, idade, nome, modalidade do ticket entre outros. 
 <hr/>
 <h2>Especificações do projeto:</h2>
 🗸 Sexo feminino <br/>

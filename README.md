@@ -11,7 +11,7 @@ O TITANIC foi uma embarcação extremamente luxuosa e tecnológica para os padr�
 🗸 Nomes em ordem alfabética <br/>
 🗸 Sequência de colunas: 'Name', 'Age', 'Sex', 'Pclass' e 'Survived' <br/>
 <hr/>
-<h2>Arquivos importante!</h2>
+<h2>Arquivos importantes!</h2>
 ❗O arquivo 'titanic.csv' é a tabela completa do dataset 
 <br/> 
 ❗O arquivo 'titanic_result.csv' é o dataframe final do projeto com todas as especificações
